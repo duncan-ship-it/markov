@@ -1,0 +1,17 @@
+{
+    "leads": {
+        "this": 1
+    },
+    "follows": {
+        "this": {
+            "is": 1
+        },
+        "is": {
+            "pretty": 1
+        },
+        "pretty": {
+            "epic": 1
+        },
+        "epic": {}
+    }
+}

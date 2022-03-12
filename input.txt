@@ -1,0 +1,5 @@
+Markov chains are a fairly common, and relatively simple, way to statistically model random processes.
+They have been used in many different domains, ranging from text generation to financial modeling.
+Overall, Markov Chains are conceptually quite intuitive, and are very accessible in that they can be implemented without the use of any advanced statistical or mathematical concepts.
+They are a great way to start learning about probabilistic modeling and data science techniques.
+This example illustrates many of the key concepts of a Markov chain. A Markov chain essentially consists of a set of transitions, which are determined by some probability distribution, that satisfy the Markov property.

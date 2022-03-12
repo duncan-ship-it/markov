@@ -1,0 +1,263 @@
+{
+    "leads": {
+        "Markov": 1,
+        "They": 2,
+        "Overall,": 1,
+        "This": 1
+    },
+    "follows": {
+        "Markov": {
+            "chains": 1,
+            "Chains": 1,
+            "chain.": 1,
+            "chain": 1,
+            "property.": 1
+        },
+        "chains": {
+            "are": 1
+        },
+        "are": {
+            "a": 2,
+            "conceptually": 1,
+            "very": 1,
+            "determined": 1
+        },
+        "a": {
+            "fairly": 1,
+            "great": 1,
+            "Markov": 1,
+            "set": 1
+        },
+        "fairly": {
+            "common,": 1
+        },
+        "common,": {
+            "and": 1
+        },
+        "and": {
+            "relatively": 1,
+            "are": 1,
+            "data": 1
+        },
+        "relatively": {
+            "simple,": 1
+        },
+        "simple,": {
+            "way": 1
+        },
+        "way": {
+            "to": 2
+        },
+        "to": {
+            "statistically": 1,
+            "financial": 1,
+            "start": 1
+        },
+        "statistically": {
+            "model": 1
+        },
+        "model": {
+            "random": 1
+        },
+        "random": {
+            "processes.": 1
+        },
+        "processes.": {},
+        "They": {
+            "have": 1,
+            "are": 1
+        },
+        "have": {
+            "been": 1
+        },
+        "been": {
+            "used": 1
+        },
+        "used": {
+            "in": 1
+        },
+        "in": {
+            "many": 1,
+            "that": 1
+        },
+        "many": {
+            "different": 1,
+            "of": 1
+        },
+        "different": {
+            "domains,": 1
+        },
+        "domains,": {
+            "ranging": 1
+        },
+        "ranging": {
+            "from": 1
+        },
+        "from": {
+            "text": 1
+        },
+        "text": {
+            "generation": 1
+        },
+        "generation": {
+            "to": 1
+        },
+        "financial": {
+            "modeling.": 1
+        },
+        "modeling.": {},
+        "Overall,": {
+            "Markov": 1
+        },
+        "Chains": {
+            "are": 1
+        },
+        "conceptually": {
+            "quite": 1
+        },
+        "quite": {
+            "intuitive,": 1
+        },
+        "intuitive,": {
+            "and": 1
+        },
+        "very": {
+            "accessible": 1
+        },
+        "accessible": {
+            "in": 1
+        },
+        "that": {
+            "they": 1,
+            "satisfy": 1
+        },
+        "they": {
+            "can": 1
+        },
+        "can": {
+            "be": 1
+        },
+        "be": {
+            "implemented": 1
+        },
+        "implemented": {
+            "without": 1
+        },
+        "without": {
+            "the": 1
+        },
+        "the": {
+            "use": 1,
+            "key": 1,
+            "Markov": 1
+        },
+        "use": {
+            "of": 1
+        },
+        "of": {
+            "any": 1,
+            "the": 1,
+            "a": 2,
+            "transitions,": 1
+        },
+        "any": {
+            "advanced": 1
+        },
+        "advanced": {
+            "statistical": 1
+        },
+        "statistical": {
+            "or": 1
+        },
+        "or": {
+            "mathematical": 1
+        },
+        "mathematical": {
+            "concepts.": 1
+        },
+        "concepts.": {},
+        "great": {
+            "way": 1
+        },
+        "start": {
+            "learning": 1
+        },
+        "learning": {
+            "about": 1
+        },
+        "about": {
+            "probabilistic": 1
+        },
+        "probabilistic": {
+            "modeling": 1
+        },
+        "modeling": {
+            "and": 1
+        },
+        "data": {
+            "science": 1
+        },
+        "science": {
+            "techniques.": 1
+        },
+        "techniques.": {},
+        "This": {
+            "example": 1
+        },
+        "example": {
+            "illustrates": 1
+        },
+        "illustrates": {
+            "many": 1
+        },
+        "key": {
+            "concepts": 1
+        },
+        "concepts": {
+            "of": 1
+        },
+        "chain.": {
+            "A": 1
+        },
+        "A": {
+            "Markov": 1
+        },
+        "chain": {
+            "essentially": 1
+        },
+        "essentially": {
+            "consists": 1
+        },
+        "consists": {
+            "of": 1
+        },
+        "set": {
+            "of": 1
+        },
+        "transitions,": {
+            "which": 1
+        },
+        "which": {
+            "are": 1
+        },
+        "determined": {
+            "by": 1
+        },
+        "by": {
+            "some": 1
+        },
+        "some": {
+            "probability": 1
+        },
+        "probability": {
+            "distribution,": 1
+        },
+        "distribution,": {
+            "that": 1
+        },
+        "satisfy": {
+            "the": 1
+        },
+        "property.": {}
+    }
+}
